@@ -2,3 +2,13 @@
  <source media="(prefers-color-scheme: light)" srcset=https://i.pinimg.com/564x/0e/f2/96/0ef2962d1516e773838ab8135b5dc5e4.jpg>
  <img alt="BOOKS" src=https://i.pinimg.com/564x/42/51/1f/42511f94a4be090bdca1fbbbafce7b5a.jpg>
 </picture>
+
+## About me
+Hi, Im Rhyio Tahari. Im a first BSIT student at SPCC. Im an aspring web developer.
+
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Java      |
+|     3| PHP       |
