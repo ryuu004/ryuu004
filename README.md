@@ -4,7 +4,7 @@
 </picture>
 
 ## About me
-Hi, Im Rhyio Tahari. Im a first BSIT student at SPCC. Passionate in web developing.
+Hi, Im Rhyio Tahari. Im a first year BSIT student at SPCC. Passionate in web developing.
 
 
 | Rank | Languages |
