@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rhyio Tahari</h1>
-<h3 align="center">Interested in Front-end/Back-end Web Development.</h3>
+<h3 align="center">Front-end/Back-end Web and Game Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryuu004" alt="ryuu004" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce Homepage](https://github.com/ryuu004/Ecommerce-Homepage.git)
 
-- 🌱 I’m currently learning **Laravel and PHP**
+- 🌱 I’m currently learning **CodeIgniter Framework**
 
 - 💬 Ask me about **web development**
 
